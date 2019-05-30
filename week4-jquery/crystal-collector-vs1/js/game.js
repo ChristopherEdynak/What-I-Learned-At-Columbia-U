@@ -31,7 +31,7 @@ var crystal = {
   
   
   // FUNCTIONS
-  // =================================================================
+  
   
   // Helper Function for getting random numbers
   var getRandom = function(min, max) {
